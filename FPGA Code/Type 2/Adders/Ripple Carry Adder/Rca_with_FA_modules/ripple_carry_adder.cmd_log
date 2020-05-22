@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "F:/VHDL/Adders/Ripple Carry Adder/Rca_with_FA_modules/ripple_carry_adder.xst" -ofn "F:/VHDL/Adders/Ripple Carry Adder/Rca_with_FA_modules/ripple_carry_adder.syr" 
+xst -intstyle ise -ifn "F:/Training/Synthesis - Copy/Adders/Ripple Carry Adder/Rca_with_FA_modules/ripple_carry_adder.xst" -ofn "F:/Training/Synthesis - Copy/Adders/Ripple Carry Adder/Rca_with_FA_modules/ripple_carry_adder.syr" 
+xst -intstyle ise -ifn "F:/Training/Synthesis - Copy/Adders/Ripple Carry Adder/Rca_with_FA_modules/ripple_carry_adder.xst" -ofn "F:/Training/Synthesis - Copy/Adders/Ripple Carry Adder/Rca_with_FA_modules/ripple_carry_adder.syr" 
+xst -intstyle ise -ifn "F:/Training/Synthesis - Copy/Adders/Ripple Carry Adder/Rca_with_FA_modules/ripple_carry_adder.xst" -ofn "F:/Training/Synthesis - Copy/Adders/Ripple Carry Adder/Rca_with_FA_modules/ripple_carry_adder.syr" 

@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "G:/Project/VHDL/Workplace/Adders/Raw/Cska/cska16_supercascaded/u_mod.xst" -ofn "G:/Project/VHDL/Workplace/Adders/Raw/Cska/cska16_supercascaded/u_mod.syr" 
+xst -intstyle ise -ifn "G:/Project/VHDL/Workplace/Adders/Raw/Cska/cska16_supercascaded/u_mod.xst" -ofn "G:/Project/VHDL/Workplace/Adders/Raw/Cska/cska16_supercascaded/u_mod.syr" 
+xst -intstyle ise -ifn "F:/Training/Synthesis - Copy/Adders/Carry Skip Adder/cska16_supercascaded/u_mod.xst" -ofn "F:/Training/Synthesis - Copy/Adders/Carry Skip Adder/cska16_supercascaded/u_mod.syr" 

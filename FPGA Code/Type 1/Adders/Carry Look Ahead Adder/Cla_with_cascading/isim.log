@@ -1,0 +1,31 @@
+ISim log file
+Running: F:\Training\Synthesis\Adders\Carry Look Ahead Adder\Cla_with_cascading\top_mod_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb F:/Training/Synthesis/Adders/Carry Look Ahead Adder/Cla_with_cascading/top_mod_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# isim force add /top_mod/x 1010111110011111 -radix bin
+# isim force add /top_mod/x 1010111110011111 -radix bin
+# isim force add /top_mod/y 1111001110101111 -radix bin
+# isim force add /top_mod/y 1111001110101111 -radix bin
+# isim force add /top_mod/cin 0 -radix bin
+# isim force add /top_mod/cin 0 -radix bin
+# run 1.00us
+# isim force add /top_mod/x 1110011101001101 -radix bin
+# isim force add /top_mod/y 1101011011111101 -radix bin
+# isim force add /top_mod/y 1101011011111101 -radix bin
+# run 1.00us
+# isim force add /top_mod/cin 1 -radix bin
+# isim force add /top_mod/x 1100101010101101 -radix bin
+# isim force add /top_mod/y 1111010101011011 -radix bin
+# isim force add /top_mod/cin 1 -radix bin
+# run 1.00us
+# isim force add /top_mod/cin 0 -radix bin
+# isim force add /top_mod/x 1110101110011110 -radix bin
+# isim force add /top_mod/y 1000111101111111 -radix bin
+# isim force add /top_mod/cin 0 -radix bin
+# run 1.00us

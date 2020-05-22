@@ -1,0 +1,20 @@
+Running: D:\Apps\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o F:/Training/Synthesis/Adders/Carry Select Adder/Csla_with_modules/carry_select_adder_isim_beh.exe -prj F:/Training/Synthesis/Adders/Carry Select Adder/Csla_with_modules/carry_select_adder_beh.prj work.carry_select_adder 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "F:/Training/Synthesis/Adders/Carry Select Adder/Csla_with_modules/Multiplexer.vhd" into library work
+Parsing VHDL file "F:/Training/Synthesis/Adders/Carry Select Adder/Csla_with_modules/Full_Adder.vhd" into library work
+Parsing VHDL file "F:/Training/Synthesis/Adders/Carry Select Adder/Csla_with_modules/Csla.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture add of entity full_adder [full_adder_default]
+Compiling architecture selection of entity multiplexer [multiplexer_default]
+Compiling architecture csla of entity carry_select_adder
+Time Resolution for simulation is 1ps.
+Compiled 7 VHDL Units
+Built simulation executable F:/Training/Synthesis/Adders/Carry Select Adder/Csla_with_modules/carry_select_adder_isim_beh.exe
+Fuse Memory Usage: 29660 KB
+Fuse CPU Usage: 406 ms

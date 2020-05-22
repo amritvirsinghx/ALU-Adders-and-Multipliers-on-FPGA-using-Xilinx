@@ -1,0 +1,6 @@
+EN multiplexer NULL "F:/Training/Synthesis/Adders/Carry Select Adder/Csla_with_modules/Multiplexer.vhd" sub00/vhpl02 1467910908
+AR carry_select_adder csla "F:/Training/Synthesis/Adders/Carry Select Adder/Csla_with_modules/Csla.vhd" sub00/vhpl05 1467910911
+EN carry_select_adder NULL "F:/Training/Synthesis/Adders/Carry Select Adder/Csla_with_modules/Csla.vhd" sub00/vhpl04 1467910910
+EN full_adder NULL "F:/Training/Synthesis/Adders/Carry Select Adder/Csla_with_modules/Full_Adder.vhd" sub00/vhpl00 1467910906
+AR multiplexer selection "F:/Training/Synthesis/Adders/Carry Select Adder/Csla_with_modules/Multiplexer.vhd" sub00/vhpl03 1467910909
+AR full_adder add "F:/Training/Synthesis/Adders/Carry Select Adder/Csla_with_modules/Full_Adder.vhd" sub00/vhpl01 1467910907

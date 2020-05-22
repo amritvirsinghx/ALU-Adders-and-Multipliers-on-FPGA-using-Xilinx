@@ -1,0 +1,3 @@
+vhdl isim_temp "Cla_Logic.vhd"
+vhdl isim_temp "Cla.vhd"
+vhdl isim_temp "Top_Module.vhd"

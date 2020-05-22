@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "F:/Training/Synthesis/Adders/Ripple Carry Adder/Rca_with_FA_modules/ripple_carry_adder_isim_beh.exe" -prj "F:/Training/Synthesis/Adders/Ripple Carry Adder/Rca_with_FA_modules/ripple_carry_adder_beh.prj" "work.ripple_carry_adder" 

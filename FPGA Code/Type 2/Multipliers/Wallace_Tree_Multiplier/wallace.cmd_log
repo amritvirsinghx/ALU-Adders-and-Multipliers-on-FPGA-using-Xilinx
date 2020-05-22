@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "E:/Softwares/Xtesting/Vhdl Projects/Workplace/Wallace_Tree_Multiplier/wallace.xst" -ofn "E:/Softwares/Xtesting/Vhdl Projects/Workplace/Wallace_Tree_Multiplier/wallace.syr" 
+xst -intstyle ise -ifn "G:/Project/VHDL/Workplace/Wallace_Tree_Multiplier/wallace.xst" -ofn "G:/Project/VHDL/Workplace/Wallace_Tree_Multiplier/wallace.syr" 
+xst -intstyle ise -ifn "G:/Project/VHDL/Workplace/Multipliers/Wallace_Tree_Multiplier/wallace.xst" -ofn "G:/Project/VHDL/Workplace/Multipliers/Wallace_Tree_Multiplier/wallace.syr" 
+xst -intstyle ise -ifn "F:/VHDL/Multipliers/Wallace_Tree_Multiplier/wallace.xst" -ofn "F:/VHDL/Multipliers/Wallace_Tree_Multiplier/wallace.syr" 

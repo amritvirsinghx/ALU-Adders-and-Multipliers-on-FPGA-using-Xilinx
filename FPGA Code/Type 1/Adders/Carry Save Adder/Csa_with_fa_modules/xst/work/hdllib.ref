@@ -1,0 +1,4 @@
+EN carry_save_adder NULL "F:/Training/Synthesis/Adders/Carry Save Adder/Csa_with_fa_modules/Csa3.vhd" sub00/vhpl02 1467913766
+EN full_adder NULL "F:/Training/Synthesis/Adders/Carry Save Adder/Csa_with_fa_modules/Full_Adder.vhd" sub00/vhpl00 1467913764
+AR carry_save_adder csa "F:/Training/Synthesis/Adders/Carry Save Adder/Csa_with_fa_modules/Csa3.vhd" sub00/vhpl03 1467913767
+AR full_adder add "F:/Training/Synthesis/Adders/Carry Save Adder/Csa_with_fa_modules/Full_Adder.vhd" sub00/vhpl01 1467913765

@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "F:/VHDL/Adders/Carry Select Adder/Csla_with_modules/carry_select_adder.xst" -ofn "F:/VHDL/Adders/Carry Select Adder/Csla_with_modules/carry_select_adder.syr" 
+xst -intstyle ise -ifn "F:/Training/Synthesis - Copy/Adders/Carry Select Adder/Csla_with_modules/carry_select_adder.xst" -ofn "F:/Training/Synthesis - Copy/Adders/Carry Select Adder/Csla_with_modules/carry_select_adder.syr" 

@@ -1,0 +1,5 @@
+vhdl work "F:\Training\Synthesis\Adders\Carry Skip Adder\cska16_supercascaded\remote_sources\_\_\csla\Csla\Full_Adder.vhd"
+vhdl work "F:\Training\Synthesis\Adders\Carry Skip Adder\cska16_supercascaded\Multiplexer.vhd"
+vhdl work "F:\Training\Synthesis\Adders\Carry Skip Adder\cska16_supercascaded\Cska.vhd"
+vhdl work "F:\Training\Synthesis\Adders\Carry Skip Adder\cska16_supercascaded\Top_Module.vhd"
+vhdl work "F:\Training\Synthesis\Adders\Carry Skip Adder\cska16_supercascaded\Super_Module.vhd"

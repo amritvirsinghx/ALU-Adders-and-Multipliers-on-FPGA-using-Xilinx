@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "F:/Training/Synthesis/Adders/Carry Select Adder/Csla_with_modules/carry_select_adder_isim_beh.exe" -prj "F:/Training/Synthesis/Adders/Carry Select Adder/Csla_with_modules/carry_select_adder_beh.prj" "work.carry_select_adder" 

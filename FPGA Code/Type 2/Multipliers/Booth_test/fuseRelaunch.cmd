@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/Softwares/Xtesting/Vhdl Projects/Workplace/Booth_test/booth_multiplier_isim_beh.exe" -prj "E:/Softwares/Xtesting/Vhdl Projects/Workplace/Booth_test/booth_multiplier_beh.prj" "work.booth_multiplier" 

@@ -1,0 +1,9 @@
+V3 3
+FL F:/VHDL/Multipliers/Booth_test/Booth_Multiplier.vhd 2016/06/19.18:53:10 P.20131013
+EN work/booth_multiplier 1467268621 \
+      FL F:/VHDL/Multipliers/Booth_test/Booth_Multiplier.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/booth_multiplier/booth_arch 1467268622 \
+      FL F:/VHDL/Multipliers/Booth_test/Booth_Multiplier.vhd \
+      EN work/booth_multiplier 1467268621

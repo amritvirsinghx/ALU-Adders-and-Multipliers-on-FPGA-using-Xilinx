@@ -1,0 +1,5 @@
+vhdl work "remote_sources/_/_/csla/Csla/Full_Adder.vhd"
+vhdl work "Multiplexer.vhd"
+vhdl work "Cska.vhd"
+vhdl work "Top_Module.vhd"
+vhdl work "Super_Module.vhd"

@@ -1,0 +1,29 @@
+Command line:
+   carry_skip_adder_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49300
+
+Wed Jun 29 11:21:57 2016
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 361.538 Meg
+
+ Total Signals          : 24
+ Total Nets             : 14
+ Total Signal Drivers   : 9
+ Total Blocks           : 5
+ Total Primitive Blocks : 4
+ Total Processes        : 9
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 374
+Total Line Count : 11
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 676.127 Meg
+
+Wed Jun 29 11:22:31 2016
+

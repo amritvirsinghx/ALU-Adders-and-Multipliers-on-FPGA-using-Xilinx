@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "F:/VHDL/Adders/Carry Skip Adder/Cska_with_mux/carry_skip_adder.xst" -ofn "F:/VHDL/Adders/Carry Skip Adder/Cska_with_mux/carry_skip_adder.syr" 
+xst -intstyle ise -ifn "F:/VHDL/Adders/Carry Skip Adder/Csa_16bit/carry_skip_adder.xst" -ofn "F:/VHDL/Adders/Carry Skip Adder/Csa_16bit/carry_skip_adder.syr" 
+xst -intstyle ise -ifn "G:/Project/VHDL/Workplace/Adders/Raw/Cska/Cska_try/carry_skip_adder.xst" -ofn "G:/Project/VHDL/Workplace/Adders/Raw/Cska/Cska_try/carry_skip_adder.syr" 

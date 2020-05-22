@@ -1,0 +1,10 @@
+Command line:
+   carry_select_adder_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  60709
+
+Thu Jul 07 22:35:01 2016
+
+
+ Elaboration Time: 0.09375 sec

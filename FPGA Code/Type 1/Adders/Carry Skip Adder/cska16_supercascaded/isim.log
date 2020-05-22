@@ -1,0 +1,28 @@
+ISim log file
+Running: F:\Training\Synthesis\Adders\Carry Skip Adder\cska16_supercascaded\u_mod_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb F:/Training/Synthesis/Adders/Carry Skip Adder/cska16_supercascaded/u_mod_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# isim force add /u_mod/x 110010111010111 -radix bin
+# isim force add /u_mod/x 110010111010111 -radix bin
+# isim force add /u_mod/y 1110100111110111 -radix bin
+# isim force add /u_mod/y 1110100111110111 -radix bin
+# isim force add /u_mod/cin 0 -radix bin
+# run 1.00us
+# isim force add /u_mod/y 1011010100101111 -radix bin
+# isim force add /u_mod/x 1101010000011110 -radix bin
+# run 1.00us
+# isim force add /u_mod/x 1001000101111010 -radix bin
+# isim force add /u_mod/y 1111101010110000 -radix bin
+# isim force add /u_mod/cin 1 -radix bin
+# run all
+# run 1.00us
+# isim force add /u_mod/cin 0 -radix bin
+# isim force add /u_mod/x 1100001011110111 -radix bin
+# isim force add /u_mod/y 1100011100101111 -radix bin
+# run 1.00us

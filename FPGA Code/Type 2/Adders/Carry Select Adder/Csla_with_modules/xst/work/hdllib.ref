@@ -1,0 +1,6 @@
+EN multiplexer NULL "F:/VHDL/Adders/Carry Select Adder/Csla_with_modules/Multiplexer.vhd" sub00/vhpl02 1467087916
+AR carry_select_adder csla "F:/VHDL/Adders/Carry Select Adder/Csla_with_modules/Csla.vhd" sub00/vhpl05 1467087919
+EN carry_select_adder NULL "F:/VHDL/Adders/Carry Select Adder/Csla_with_modules/Csla.vhd" sub00/vhpl04 1467087918
+EN full_adder NULL "F:/VHDL/Adders/Carry Select Adder/Csla_with_modules/Full_Adder.vhd" sub00/vhpl00 1467087914
+AR multiplexer selection "F:/VHDL/Adders/Carry Select Adder/Csla_with_modules/Multiplexer.vhd" sub00/vhpl03 1467087917
+AR full_adder add "F:/VHDL/Adders/Carry Select Adder/Csla_with_modules/Full_Adder.vhd" sub00/vhpl01 1467087915

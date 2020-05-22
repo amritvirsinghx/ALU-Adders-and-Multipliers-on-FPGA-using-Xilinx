@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "F:/Training/Synthesis/Adders/Carry Skip Adder/cska16_supercascaded/u_mod_isim_beh.exe" -prj "F:/Training/Synthesis/Adders/Carry Skip Adder/cska16_supercascaded/u_mod_beh.prj" "work.u_mod" 

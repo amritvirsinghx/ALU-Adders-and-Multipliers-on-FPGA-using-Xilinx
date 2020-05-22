@@ -1,0 +1,6 @@
+EN wallace NULL F:/VHDL/Multipliers/Wallace_Tree_Multiplier/Wallace_Tree_Multiplier.vhd sub00/vhpl04 1467268348
+AR half_adder add F:/VHDL/Multipliers/Wallace_Tree_Multiplier/Half_Adder.vhd sub00/vhpl01 1467268345
+EN half_adder NULL F:/VHDL/Multipliers/Wallace_Tree_Multiplier/Half_Adder.vhd sub00/vhpl00 1467268344
+AR wallace multiply F:/VHDL/Multipliers/Wallace_Tree_Multiplier/Wallace_Tree_Multiplier.vhd sub00/vhpl05 1467268349
+EN full_adder NULL F:/VHDL/Multipliers/Wallace_Tree_Multiplier/Full_Adder.vhd sub00/vhpl02 1467268346
+AR full_adder add F:/VHDL/Multipliers/Wallace_Tree_Multiplier/Full_Adder.vhd sub00/vhpl03 1467268347

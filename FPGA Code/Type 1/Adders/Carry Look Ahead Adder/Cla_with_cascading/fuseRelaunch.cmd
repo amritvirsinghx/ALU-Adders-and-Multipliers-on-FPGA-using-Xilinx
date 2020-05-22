@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "F:/Training/Synthesis/Adders/Carry Look Ahead Adder/Cla_with_cascading/top_mod_isim_beh.exe" -prj "F:/Training/Synthesis/Adders/Carry Look Ahead Adder/Cla_with_cascading/top_mod_beh.prj" "work.top_mod" 

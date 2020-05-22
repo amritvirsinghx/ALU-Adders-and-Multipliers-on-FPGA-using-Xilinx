@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "F:/VHDL/Adders/Carry Select Adder/Csla_with_modules/carry_select_adder.xst" -ofn "F:/VHDL/Adders/Carry Select Adder/Csla_with_modules/carry_select_adder.syr" 
+xst -intstyle ise -ifn "F:/Training/Synthesis/Adders/Carry Select Adder/Csla_with_modules/carry_select_adder.xst" -ofn "F:/Training/Synthesis/Adders/Carry Select Adder/Csla_with_modules/carry_select_adder.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-5 "carry_select_adder.ngc" carry_select_adder.ngd  
+map -intstyle ise -p xc3s200-pq208-5 -cm area -ir off -pr off -c 100 -o carry_select_adder_map.ncd carry_select_adder.ngd carry_select_adder.pcf 
+par -w -intstyle ise -ol high -t 1 carry_select_adder_map.ncd carry_select_adder.ncd carry_select_adder.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml carry_select_adder.twx carry_select_adder.ncd -o carry_select_adder.twr carry_select_adder.pcf 

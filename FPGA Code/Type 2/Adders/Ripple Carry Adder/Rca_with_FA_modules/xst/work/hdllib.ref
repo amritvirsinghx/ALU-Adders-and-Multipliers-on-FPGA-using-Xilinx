@@ -1,0 +1,4 @@
+EN ripple_carry_adder NULL "F:/Training/Synthesis - Copy/Adders/Ripple Carry Adder/Rca_with_FA_modules/Rca.vhd" sub00/vhpl02 1467900727
+AR ripple_carry_adder rca "F:/Training/Synthesis - Copy/Adders/Ripple Carry Adder/Rca_with_FA_modules/Rca.vhd" sub00/vhpl03 1467900728
+EN full_adder NULL "F:/Training/Synthesis - Copy/Adders/Ripple Carry Adder/Rca_with_FA_modules/Full_Adder.vhd" sub00/vhpl00 1467900725
+AR full_adder add "F:/Training/Synthesis - Copy/Adders/Ripple Carry Adder/Rca_with_FA_modules/Full_Adder.vhd" sub00/vhpl01 1467900726

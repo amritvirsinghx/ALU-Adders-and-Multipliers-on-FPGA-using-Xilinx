@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "F:/VHDL/Adders/Carry Look Ahead Adder/Cla_with_cascading/top_mod.xst" -ofn "F:/VHDL/Adders/Carry Look Ahead Adder/Cla_with_cascading/top_mod.syr" 
+xst -intstyle ise -ifn "F:/Training/Synthesis - Copy/Adders/Carry Look Ahead Adder/Cla_with_cascading/top_mod.xst" -ofn "F:/Training/Synthesis - Copy/Adders/Carry Look Ahead Adder/Cla_with_cascading/top_mod.syr" 

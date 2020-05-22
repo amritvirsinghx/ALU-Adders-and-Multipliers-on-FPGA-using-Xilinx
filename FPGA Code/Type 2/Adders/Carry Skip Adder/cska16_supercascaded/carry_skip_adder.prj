@@ -1,0 +1,3 @@
+vhdl work "../../csla/Csla/Full_Adder.vhd"
+vhdl work "Multiplexer.vhd"
+vhdl work "Cska.vhd"

@@ -1,0 +1,6 @@
+EN cla_block NULL "F:/Training/Synthesis/Adders/Carry Look Ahead Adder/Cla_with_cascading/Cla_Logic.vhd" sub00/vhpl00 1468146439
+EN top_mod NULL "F:/Training/Synthesis/Adders/Carry Look Ahead Adder/Cla_with_cascading/Top_Module.vhd" sub00/vhpl04 1468146443
+EN cla_adder NULL "F:/Training/Synthesis/Adders/Carry Look Ahead Adder/Cla_with_cascading/Cla.vhd" sub00/vhpl02 1468146441
+AR cla_adder cla "F:/Training/Synthesis/Adders/Carry Look Ahead Adder/Cla_with_cascading/Cla.vhd" sub00/vhpl03 1468146442
+AR top_mod logic "F:/Training/Synthesis/Adders/Carry Look Ahead Adder/Cla_with_cascading/Top_Module.vhd" sub00/vhpl05 1468146444
+AR cla_block logic "F:/Training/Synthesis/Adders/Carry Look Ahead Adder/Cla_with_cascading/Cla_Logic.vhd" sub00/vhpl01 1468146440

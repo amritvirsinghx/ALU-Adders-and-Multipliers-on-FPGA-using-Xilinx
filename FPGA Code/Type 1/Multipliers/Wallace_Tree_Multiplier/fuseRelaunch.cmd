@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "G:/Project/VHDL/Workplace/Wallace_Tree_Multiplier/wallace_isim_beh.exe" -prj "G:/Project/VHDL/Workplace/Wallace_Tree_Multiplier/wallace_beh.prj" "work.wallace" 

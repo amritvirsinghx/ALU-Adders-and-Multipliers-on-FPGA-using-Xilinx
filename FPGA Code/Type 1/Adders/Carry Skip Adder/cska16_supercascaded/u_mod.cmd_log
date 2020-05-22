@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "G:/Project/VHDL/Workplace/Adders/Raw/Cska/cska16_supercascaded/u_mod.xst" -ofn "G:/Project/VHDL/Workplace/Adders/Raw/Cska/cska16_supercascaded/u_mod.syr" 
+xst -intstyle ise -ifn "G:/Project/VHDL/Workplace/Adders/Raw/Cska/cska16_supercascaded/u_mod.xst" -ofn "G:/Project/VHDL/Workplace/Adders/Raw/Cska/cska16_supercascaded/u_mod.syr" 
+xst -intstyle ise -ifn "F:/Training/Synthesis/Adders/Carry Skip Adder/cska16_supercascaded/u_mod.xst" -ofn "F:/Training/Synthesis/Adders/Carry Skip Adder/cska16_supercascaded/u_mod.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-5 "u_mod.ngc" u_mod.ngd  
+map -intstyle ise -p xc3s200-pq208-5 -cm area -ir off -pr off -c 100 -o u_mod_map.ncd u_mod.ngd u_mod.pcf 
+par -w -intstyle ise -ol high -t 1 u_mod_map.ncd u_mod.ncd u_mod.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml u_mod.twx u_mod.ncd -o u_mod.twr u_mod.pcf 

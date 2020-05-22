@@ -1,0 +1,3 @@
+vhdl work "Cla_Logic.vhd"
+vhdl work "Cla.vhd"
+vhdl work "Top_Module.vhd"

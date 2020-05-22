@@ -1,0 +1,28 @@
+Command line:
+   booth_multiplier_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50897
+
+Sun Jun 19 19:06:27 2016
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 848.151 Meg
+
+ Total Signals          : 14
+ Total Nets             : 115
+ Total Signal Drivers   : 16
+ Total Blocks           : 4
+ Total Primitive Blocks : 4
+ Total Processes        : 9
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 493
+
+ Total Simulation Time: 0.296875 sec
+
+ Current Memory Usage: 690.864 Meg
+
+Sun Jun 19 19:10:07 2016
+

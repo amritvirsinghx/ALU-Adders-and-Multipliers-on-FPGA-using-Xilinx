@@ -1,0 +1,4 @@
+EN carry_save_adder NULL "E:/Softwares/Xtesting/Vhdl Projects/Workplace/Adders/Csa_with_fa_modules/Csa.vhd" sub00/vhpl02 1467128395
+EN full_adder NULL "E:/Softwares/Xtesting/Vhdl Projects/Workplace/Adders/Csa_with_fa_modules/Full_Adder.vhd" sub00/vhpl00 1467128393
+AR carry_save_adder csa "E:/Softwares/Xtesting/Vhdl Projects/Workplace/Adders/Csa_with_fa_modules/Csa.vhd" sub00/vhpl03 1467128396
+AR full_adder add "E:/Softwares/Xtesting/Vhdl Projects/Workplace/Adders/Csa_with_fa_modules/Full_Adder.vhd" sub00/vhpl01 1467128394
